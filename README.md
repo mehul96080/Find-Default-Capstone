@@ -1,6 +1,6 @@
 # Find-Default-Capstone-
 
-# Default Prediction of Credit Card Fraud
+# Find Default - Prediction of Credit Card Fraud
 
 **Author**: Mehul Raj  
 **Course**: Data Science Bootcamp, upGrad
